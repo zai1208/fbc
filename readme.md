@@ -20,7 +20,7 @@
     Documentation of language features, compiler options and many other details
     is available in the FB manual. For help & support, visit the FB forum!
 
-  o Installation & Usage
+  # Installation & Usage
 
     FreeBASIC gives you the FreeBASIC compiler program (fbc or fbc.exe),
     plus the tools and libraries used by it. fbc is a command line program
@@ -91,7 +91,7 @@
       This should have created examples\hello.exe. You can run it by entering:
         > examples\hello.exe
 
-  o Licensing
+  # Licensing
 
     The FreeBASIC compiler (fbc) is licensed under the GNU GPLv2 or later.
 
